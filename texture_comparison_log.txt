@@ -1,0 +1,20 @@
+
+
+--- Log Entry: 2025-02-02 17:52:19 ---
+Image 1: img1.jpg
+Image 2: img3.jpg
+LBP Distance: 0.1040
+GLCM Distance: 0.0396
+Gabor Distance: 0.3372
+Entropy Distance: 0.0000
+Computed Similarity Score: 61.83%
+
+--- Log Entry: 2025-02-02 17:53:09 ---
+Image 1: img4.jpg
+Image 2: img5.jpg
+LBP Distance: 0.0339
+GLCM Distance: 0.0106
+Gabor Distance: 0.1685
+Entropy Distance: 0.0000
+Computed Similarity Score: 80.82%
+
