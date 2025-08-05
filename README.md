@@ -3,7 +3,6 @@
 A Python-based desktop application that compares two images and computes their texture similarity using classical texture descriptors: **LBP**, **GLCM**, **Gabor filters**, and **Entropy**.  
 The final similarity score is calculated using Euclidean distance and displayed in a simple, user-friendly interface.
 
----
 
 ## 🧠 Features
 
@@ -18,7 +17,6 @@ The final similarity score is calculated using Euclidean distance and displayed 
 - 🖼 Visual side-by-side comparison with Matplotlib
 - 🪟 Simple GUI built with `tkinter`
 
----
 
 ## 📄 Documentation
 
@@ -26,7 +24,6 @@ For a full explanation of the algorithms, implementation details, and theoretica
 
 📘 [Documentation (PDF)](./Dokumentacija.pdf)
 
----
 
 ## 🛠 Technologies Used
 
@@ -38,7 +35,6 @@ For a full explanation of the algorithms, implementation details, and theoretica
 - Matplotlib
 - Tkinter (for GUI)
 
----
 
 ## 🚀 Installation
 
